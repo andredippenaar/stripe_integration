@@ -1,0 +1,16 @@
+{
+    "card machines": [
+        {
+           "id": "1",
+           "name": "Yoco Go",
+           "price": "19900",
+           "imgName": "go.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Yoco Khumo",
+            "price": "49900",
+            "imgName": "khumo.png"
+         }
+    ]
+}
